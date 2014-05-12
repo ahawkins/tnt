@@ -1,5 +1,7 @@
 # Tnt
 
+[![Build Status](https://travis-ci.org/ahawkins/tnt.svg)](https://travis-ci.org/ahawkins/tnt)
+
 A libary for programmers who like things that go boom. I found myself
 creating a lot of error classes. I usually wanted to customize the
 message or simply the superclass. It was tiring. Enter Tnt. Tnt is
